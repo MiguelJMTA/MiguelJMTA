@@ -1,19 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate on web projects<br>🌱 I’m currently learning back and front frameworks<br>💬 Ask me about Docker - containerization<br>⚡ Fun fact "I'm Svelte fan" | You should try it
+<!-- README generado para Jose Miguel Tierrablanca Arreola -->
+
+<h1 align="center">Hola 👋, soy Jose Miguel Tierrablanca</h1>
+<h3 align="center">Desarrollador Full Stack | Apasionado por el código limpio y escalable</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiguelJMTA&label=Profile%20views&color=0e75b6&style=flat" alt="MiguelJMTA" />
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en arquitectura de microservicios y despliegue de aplicaciones en la nube. Me enfoco en la eficiencia, buenas prácticas, trabajo colaborativo y mejora continua.
+
+- 🔭 Actualmente trabajando en proyectos propios y en **Cuatro Development**  
+- 🌱 Aprendiendo constantemente sobre frameworks modernos y herramientas DevOps  
+- 👯 Buscando colaborar en proyectos de desarrollo web modernos  
+- 🐳 Experto en **Docker** y contenedores  
+- ⚡ Fan de **Svelte**, ¡deberías probarlo!
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,express,ts,react,svelte,nodejs,dotnet,cs,python,flask,java,mysql,postgres,mongodb,firebase,aws,azure,gcp,docker,kubernetes,linux" />
+</div>
+
+---
+
+## 💼 Experiencia Profesional
+
+**Full Stack Developer**  
+📅 *Ago 2022 – Actualidad*
+
+---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/migueljmta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-tierrablanca) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@migueljmta) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/migueljmta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/migueljmta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@migueljmta) 
+## 📜 Certificaciones
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MiguelJMTA&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelJMTA&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJMTA&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Microsoft Azure – AZ-900 Fundamentals  
+- AWS Academy Graduate  
+- Google – Desarrollo Web HTML y CSS  
+- Cisco – DevNet, CyberOps, CCNA, IoT  
+- CertiProf – Scrum Foundation, Lifelong Learning  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelJMTA&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelJMTA&theme=material-palenight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJMTA&theme=material-palenight&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 🧠 Frase del Día
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🌐 Contacto y Redes
+
+<p align="center">
+  <a href="https://linkedin.com/in/miguel-tierrablanca"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/migueljmta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/migueljmta"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/></a>
+  <a href="https://twitch.tv/migueljmta"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white"/></a>
+  <a href="https://tiktok.com/@migueljmta"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white"/></a>
+</p>
+
+---
