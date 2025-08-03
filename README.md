@@ -34,6 +34,24 @@ Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en
 **Full Stack Developer**  
 📅 *Ago 2022 – Actualidad*
 
+### 🔧 Proyectos destacados
+
+- **Celaya Vende**  
+  Plataforma de publicidad y eCommerce local para comerciantes y clientes.  
+  *Tecnologías:* SvelteKit, Node.js, SQLServer, Web APIs, NGINX, Azure
+
+- **Motor de Validación de CFDI**  
+  Sistema de verificación y validación de facturas electrónicas (CFDI) en tiempo real.  
+  *Tecnologías:* SvelteKit, Node.Js, MongoDB, Web APIs, Docker, NGINX, Azure
+
+- **Flappy**  
+  Plataforma de gestión logística para embarques y rutas empresariales.  
+  *Tecnologías:* SvewlteKit, TypeScript, PostgreSQL, Web APIs, AWS
+
+- **Buzón Tributario**  
+  Sistema web para comunicación fiscal entre entidades gubernamentales y ciudadanos.  
+  *Tecnologías:* React, C#, Python, Flask, MongoDB, .Net, IIS, Docker, Windows, Infrastructura física
+  
 ---
 
 
