@@ -24,7 +24,7 @@ Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,express,ts,react,svelte,nodejs,dotnet,cs,python,flask,java,mysql,postgres,mongodb,firebase,aws,azure,gcp,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,mysql,postgres,mongodb,html,css,bootstrap,express,react,svelte,nodejs,dotnet,flask,java,firebase,aws,azure,gcp,docker,kubernetes,linux" />
 </div>
 
 ---
