@@ -46,7 +46,7 @@ Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en
 
 - **Flappy**  
   Plataforma de gestión logística para embarques y rutas empresariales.  
-  *Tecnologías:* SvewlteKit, TypeScript, PostgreSQL, Web APIs, AWS
+  *Tecnologías:* SvelteKit, TypeScript, PostgreSQL, Web APIs, AWS
 
 - **Buzón Tributario**  
   Sistema web para comunicación fiscal entre entidades gubernamentales y ciudadanos.  
