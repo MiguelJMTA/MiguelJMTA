@@ -50,7 +50,7 @@ Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en
 
 - **Buzón Tributario**  
   Sistema web para comunicación fiscal entre entidades gubernamentales y ciudadanos.  
-  *Tecnologías:* React, C#, Python, FastAPI, MongoDB, .Net, IIS, Docker, Windows, Infrastructura física
+  *Tecnologías:* React, C#, .Net, Windows, Infrastructura física, Python, FastAPI, MongoDB, IIS, Docker. 
   
 ---
 
