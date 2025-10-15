@@ -78,16 +78,13 @@
 ## 💼 Experiencia Profesional
 
 **🎯 Tech Lead**  
-
 📅 *Enero 2025 – Actualidad*  
-
 - Lidero equipos técnicos y establezco estándares de desarrollo
 - Arquitectura de sistemas escalables y resilientes
 - Mentoring y code review para equipos multidisciplinarios
 - Implementación de arquitecturas de microservicios
 
 **💻 Full Stack Developer**  
-
 📅 *Agosto 2022 – Enero 2025*  
 - Desarrollo de sistemas fiscales y gubernamentales
 - Especialización en CFDI, firma digital y compliance
