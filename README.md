@@ -31,7 +31,7 @@ Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en
 
 ## 💼 Experiencia Profesional
 
-**Full Stack Developer**  
+**Tech Lead**  
 📅 *Enero 2025 – Actualidad*
 
 **Full Stack Developer**  
