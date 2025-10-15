@@ -1,7 +1,7 @@
 <!-- README generado para Jose Miguel Tierrablanca Arreola -->
 
 <h1 align="center">Hola 👋, soy Jose Miguel Tierrablanca</h1>
-<h3 align="center">Desarrollador Full Stack | Apasionado por el código limpio y escalable</h3>
+<h3 align="center">Tech Lead & Full Stack Developer | Especialista es sistemas web</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiguelJMTA&label=Profile%20views&color=0e75b6&style=flat" alt="MiguelJMTA" />
@@ -11,60 +11,115 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en arquitectura de microservicios y despliegue de aplicaciones en la nube. Me enfoco en la eficiencia, buenas prácticas, trabajo colaborativo y mejora continua.
+**Tech Lead** con 3+ años especializándome en **sistemas fiscales mexicanos** y **arquitecturas escalables**. Experto en desarrollo de aplicaciones que manejan **CFDI**, **firma digital**, y **sistemas gubernamentales** de alta criticidad.
 
-- 🔭 Actualmente trabajando en proyectos propios y en **Cuatro Development**  
-- 🌱 Aprendiendo constantemente sobre frameworks modernos y herramientas DevOps  
-- 👯 Buscando colaborar en proyectos de desarrollo web modernos  
-- 🐳 Experto en **Docker** y contenedores  
-- ⚡ Fan de **Svelte**, ¡deberías probarlo!
+- 🔭 Actualmente: **Tech Lead** en Cuatro Development + proyectos personales
+- 🏛️ Especialización: **Facturación electrónica**, **Firma electrónica de documentos**, **Aplicaciones web**
+- 🔐 Experto en: **Firma y sellado digital**, **compliance fiscal mexicano**
+- 🚀 Enfoque: **Aplicaciones resilientes** con **alto rendimiento** y **escalabilidad**
+- ⚡ Fan de **Svelte** y **arquitectura de microservicios**
+- 🌱 Aprendiendo: Frameworks modernos y herramientas DevOps avanzadas
+
+---
+
+## 🏛️ Especialización Fiscal
+
+<div align="center">
+
+**🇲🇽 Experto en Tecnología Firmado Digital Mexicana**
+
+</div>
+
+- **CFDI 4.0** - Validación, generación y procesamiento en tiempo real
+- **SAT Integration** - Sistemas de comunicación gubernamental  
+- **Firma Digital** - Implementación de firmado/sellado y autenticación
+- **Compliance** - Cumplimiento normativo y regulatorio
+- **Buzón Tributario** - Sistemas de notificación fiscal
+
+> *Desarrollador con experiencia práctica en sistemas fiscales mexicanos de alta criticidad*
 
 ---
 
 ## 🧰 Tech Stack
 
+### Frontend & UI
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,mysql,postgres,mongodb,html,css,bootstrap,express,react,svelte,nodejs,dotnet,flask,java,firebase,aws,azure,gcp,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=react,svelte,js,ts,html,css,bootstrap" />
 </div>
+
+### Backend & APIs
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python,flask,java" />
+</div>
+
+### Databases & Storage
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</div>
+
+### Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux" />
+</div>
+
+---
+
+## 🏆 Logros Destacados
+
+- 🏛️ **Sistemas Gubernamentales:** Desarrollé sistemas fiscales utilizados por entidades del SAT
+- 📊 **Alto Rendimiento:** Aplicaciones con alto rendimiento y alto tráfico simultáneo
+- 🔒 **Seguridad:** Implementación exitosa de timbrado de CFDI y firma/sellado de documentos digitales
+- ⚡ **Escalabilidad:** Arquitecturas que manejan **miles de transacciones simultáneas**
+- 👥 **Liderazgo Técnico:** **Tech Lead** estableciendo estándares y mentoreando equipos
 
 ---
 
 ## 💼 Experiencia Profesional
 
-**Tech Lead**  
-📅 *Enero 2025 – Actualidad*
+**🎯 Tech Lead**  
+📅 *Enero 2025 – Actualidad*  
+• Lidero equipos técnicos y establezco estándares de desarrollo
+• Arquitectura de sistemas escalables y resilientes
+• Mentoring y code review para equipos multidisciplinarios
+• Implementación de arquitecturas de microservicios
 
-**Full Stack Developer**  
-📅 *Agosto 2022 – Enero 2025*
+**💻 Senior Full Stack Developer**  
+📅 *Agosto 2022 – Enero 2025*  
+• Desarrollo de sistemas fiscales y gubernamentales
+• Especialización en CFDI, firma digital y compliance
+• Implementación de arquitecturas de microservicios
 
 ### 🔧 Proyectos destacados
 
-- **Celaya Vende**  
+- **Buzón Tributario** 🏛️  ⭐ **Proyecto Estrella**  
+  Sistema web para comunicación fiscal entre **SAT** estatal y contribuyentes con **autenticación gubernamental**.  
+  *Tecnologías:* React, C#/.NET, Python, FastAPI, MongoDB, IIS, Docker  
+  *Logro:* **Cumplimiento total** con regulaciones mexicanas para firmado de documentos digitales y comunicación fiscal
+  
+- **Flappy** 📦  
+  Plataforma de gestión logística para embarques, facturación, clientes, tractores, cajas y seguros.  
+  *Tecnologías:* SvelteKit, TypeScript, PostgreSQL, Web APIs, AWS  
+  *Resultado:* Optimización y automatización de procesos logísticos empresariales
+  
+- **Celaya Vende** 🛒  
   Plataforma de publicidad y eCommerce local para comerciantes y clientes.  
-  *Tecnologías:* SvelteKit, Node.js, SQLServer, Web APIs, NGINX, Azure
+  *Tecnologías:* SvelteKit, Node.js, SQL Server, Web APIs, NGINX, Azure  
+  *Enfoque:* Escalabilidad y experiencia de usuario optimizada
 
-- **Motor de Validación de CFDI**  
-  Sistema de verificación y validación de facturas electrónicas (CFDI) en tiempo real.  
-  *Tecnologías:* SvelteKit, Node.Js, MongoDB, Web APIs, Docker, NGINX, Azure
-
-- **Flappy**  
-  Plataforma de gestión logística para embarques y rutas empresariales.  
-  *Tecnologías:* SvelteKit, TypeScript, PostgreSQL, Web APIs, AWS
-
-- **Buzón Tributario**  
-  Sistema web para comunicación fiscal entre entidades gubernamentales y ciudadanos.  
-  *Tecnologías:* React, C#, .Net, Windows, Infrastructura física, Python, FastAPI, MongoDB, IIS, Docker. 
+- **Motor de Validación de CFDI** 
+  Sistema de verificación y validación de facturas electrónicas (CFDI)**.  
+  *Tecnologías:* SvelteKit, Node.js, MongoDB, Docker, NGINX, Azure  
+  *Impacto:* Procesamiento en tiempo real **
   
 ---
 
-
 ## 📜 Certificaciones
 
-- Microsoft Azure – AZ-900 Fundamentals  
-- AWS Academy Graduate  
-- Google – Desarrollo Web HTML y CSS  
-- Cisco – DevNet, CyberOps, CCNA, IoT  
-- CertiProf – Scrum Foundation, Lifelong Learning  
+- **Microsoft Azure** – AZ-900 Fundamentals  
+- **AWS Academy** Graduate  
+- **Google** – Desarrollo Web HTML y CSS  
+- **Cisco** – DevNet, CyberOps, CCNA, IoT  
+- **CertiProf** – Scrum Foundation, Lifelong Learning  
 
 ---
 
@@ -72,28 +127,17 @@ Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelJMTA&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelJMTA&theme=material-palenight&hide_border=false" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJMTA&theme=material-palenight&hide_border=false&layout=compact" />
 </p>
 
 ---
 
-## 🧠 Frase del Día
+## 🎯 Filosofía de Desarrollo
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🌐 Contacto y Redes
-
-<p align="center">
-  <a href="https://linkedin.com/in/miguel-tierrablanca"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/migueljmta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/migueljmta"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/></a>
-  <a href="https://twitch.tv/migueljmta"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white"/></a>
-  <a href="https://tiktok.com/@migueljmta"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white"/></a>
-</p>
-
----
