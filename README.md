@@ -32,7 +32,10 @@ Desarrollador Full Stack con experiencia en liderazgo técnico, especializado en
 ## 💼 Experiencia Profesional
 
 **Full Stack Developer**  
-📅 *Ago 2022 – Actualidad*
+📅 *Enero 2025 – Actualidad*
+
+**Full Stack Developer**  
+📅 *Agosto 2022 – Enero 2025*
 
 ### 🔧 Proyectos destacados
 
