@@ -32,9 +32,10 @@
 
 - **CFDI 4.0** - Validación, generación y procesamiento en tiempo real
 - **SAT Integration** - Sistemas de comunicación gubernamental  
-- **Firma Digital** - Implementación de firmado/sellado y autenticación
+- **Firma Digital** - Implementación de firmado/sellado y autenticación de documentos digitales
 - **Compliance** - Cumplimiento normativo y regulatorio
 - **Buzón Tributario** - Sistemas de notificación fiscal
+- **Pasarelas de pago** - Cobros por evento y suscripciones por medio de la API de OpenPay
 
 > *Desarrollador con experiencia práctica en sistemas fiscales mexicanos de alta criticidad*
 
@@ -77,17 +78,20 @@
 ## 💼 Experiencia Profesional
 
 **🎯 Tech Lead**  
-📅 *Enero 2025 – Actualidad*  
-• Lidero equipos técnicos y establezco estándares de desarrollo
-• Arquitectura de sistemas escalables y resilientes
-• Mentoring y code review para equipos multidisciplinarios
-• Implementación de arquitecturas de microservicios
 
-**💻 Senior Full Stack Developer**  
+📅 *Enero 2025 – Actualidad*  
+
+- Lidero equipos técnicos y establezco estándares de desarrollo
+- Arquitectura de sistemas escalables y resilientes
+- Mentoring y code review para equipos multidisciplinarios
+- Implementación de arquitecturas de microservicios
+
+**💻 Full Stack Developer**  
+
 📅 *Agosto 2022 – Enero 2025*  
-• Desarrollo de sistemas fiscales y gubernamentales
-• Especialización en CFDI, firma digital y compliance
-• Implementación de arquitecturas de microservicios
+- Desarrollo de sistemas fiscales y gubernamentales
+- Especialización en CFDI, firma digital y compliance
+- Implementación de arquitecturas de microservicios
 
 ### 🔧 Proyectos destacados
 
