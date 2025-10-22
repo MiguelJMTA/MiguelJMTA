@@ -1,6 +1,6 @@
 <!-- README generado para Jose Miguel Tierrablanca Arreola -->
 
-<h1 align="center">Hola 👋, soy Jose Miguel Tierrablanca</h1>
+<h1 align="center">Hola 👋, soy Miguel Tierrablanca</h1>
 <h3 align="center">Tech Lead & Full Stack Developer | Especialista es sistemas web</h3>
 
 <p align="center">
