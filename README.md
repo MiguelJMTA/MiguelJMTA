@@ -60,7 +60,7 @@
 
 ### Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux,windows" />
 </div>
 
 ---
