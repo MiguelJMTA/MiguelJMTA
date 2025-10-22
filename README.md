@@ -140,5 +140,4 @@
 
 ---
 
-## 🎯 Filosofía de Desarrollo
 
