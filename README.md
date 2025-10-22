@@ -50,7 +50,7 @@
 
 ### Backend & APIs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python,flask,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python,fastapi,java" />
 </div>
 
 ### Databases & Storage
