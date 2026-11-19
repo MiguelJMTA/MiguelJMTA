@@ -11,9 +11,9 @@
 
 ## 🚀 Sobre mí
 
-**Tech Lead** con 3+ años especializándome en **sistemas fiscales mexicanos** y **arquitecturas escalables**. Experto en desarrollo de aplicaciones que manejan **CFDI**, **firma digital**, y **sistemas gubernamentales** de alta criticidad.
+**Tech Lead** con 4+ años especializándome en **sistemas fiscales mexicanos** y **arquitecturas escalables**. Experto en desarrollo de aplicaciones que manejan **CFDI**, **firma digital**, y **sistemas gubernamentales** de alta criticidad.
 
-- 🔭 Actualmente: **Tech Lead** en Cuatro Development + proyectos personales
+- 🔭 Actualmente: Buscando nuevas oportunidades
 - 🏛️ Especialización: **Facturación electrónica**, **Firma electrónica de documentos**, **Aplicaciones web**
 - 🔐 Experto en: **Firma y sellado digital**, **compliance fiscal mexicano**
 - 🚀 Enfoque: **Aplicaciones resilientes** con **alto rendimiento** y **escalabilidad**
@@ -78,14 +78,14 @@
 ## 💼 Experiencia Profesional
 
 **🎯 Tech Lead**  
-📅 *Enero 2025 – Actualidad*  
+📅 *Enero 2025 – Noviembre 2026 | Cuatro Dev*  
 - Lidero equipos técnicos y establezco estándares de desarrollo
 - Arquitectura de sistemas escalables y resilientes
 - Mentoring y code review para equipos multidisciplinarios
 - Implementación de arquitecturas de microservicios
 
 **💻 Full Stack Developer**  
-📅 *Agosto 2022 – Enero 2025*  
+📅 *Agosto 2022 – Enero 2025 | Cuatro Dev*  
 - Desarrollo de sistemas fiscales y gubernamentales
 - Especialización en CFDI, firma digital y compliance
 - Implementación de arquitecturas de microservicios
